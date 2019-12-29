@@ -1,0 +1,2 @@
+# eco-web
+Devised an application that is a single pitstop for creating Events, Fundraisers, Starting Petitions and signing them, as well as updating status with any work that you did that reduce your carbon footprint on our social feed platform * Authorized the application with JWT tokens using Algorithm Rs256 following OIDC specification to secure feature access on the front end and specific backend REST APIs * Exhibited live Air Quality Index of the current and nearby locations using airpollutionapi.com for self-awareness
